@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Vipin Kumarr"
+author: "Vipin Kumar"
 role: "Bioinformatician"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
