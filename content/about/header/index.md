@@ -7,4 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+My goal is to develop original methods to unpack complex objects like our genome and outline mechanisms that shape its activity. I aim to make my methods available as tools that are both extensible and reproducible to best leverage the constantly changing technologies.
+

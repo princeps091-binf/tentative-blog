@@ -1,7 +1,7 @@
 ---
 title: "Vipin Kumar"
 subtitle: "Bioinformatics professional and Data science enthusiast"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+description: "As a Postdoctoral Researcher at the Centre for Molecular Medicine Norway (NCMM), University of Oslo, I currently develop clustering algorithms combined with statistical modeling to detect novel drug targets in the context of breast cancer."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
