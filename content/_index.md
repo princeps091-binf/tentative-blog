@@ -1,7 +1,8 @@
 ---
 title: "Vipin Kumar"
 subtitle: "Bioinformatics professional and Data science enthusiast"
-description: "As a Postdoctoral Researcher at the Centre for Molecular Medicine Norway (NCMM), University of Oslo, I currently develop clustering algorithms combined with statistical modeling to detect novel drug targets in the context of breast cancer."
+description: "My goal is to develop original methods to unpack complex objects like our genome and outline mechanisms that shape its activity. I aim to make my methods available as tools that are both extensible and reproducible to best leverage the constantly changing technologies.
+"
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/me.jpeg
