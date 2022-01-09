@@ -1,8 +1,8 @@
 ---
-title: A Spoonful of Hugo
+title: Series on HiC low-resolution clustering
 description: |
-  A forking fun new feature for series.
-author: Alison Hill
+  Examination of possible alternative ways to produce clusters for low-resolution HiC data
+author: Vipin Kumar
 show_post_thumbnail: false
 show_author_byline: true
 show_post_date: true
@@ -11,14 +11,10 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Spoonful of Hugo
-  author: Alison Hill
+  title: Low-resolution HiC clustering
+  author: Vipin Kumar
   description: |
-    A forking fun new feature for series.
-    Even this sidebar offers a ton of customizations!
-    
-    Check out the _index.md file in the /blog/spoonful-series
-    folder to edit this content.
+    The unexpected frontier of HiC clustering
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
@@ -26,8 +22,8 @@ sidebar:
 # set up common front matter for all individual pages in series
 cascade:
   layout: single-series       # for a series, do not change
-  series: A Spoonful of Hugo  # name your series
-  author: Alison Hill
+  series: Low-resolution HiC clustering  # name your series
+  author: Vipin Kumar
   show_author_byline: true
   show_post_date: true
   sidebar:
