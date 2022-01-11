@@ -1,9 +1,9 @@
 ---
-title: "Lorem Star Wars"
-subtitle: "How to add panelsets in plain markdown posts."
+title: "Is Science a product like any other?"
+subtitle: "Thoughts on the 'Science as commodity' chapter from the Dialectical Biologist"
 excerpt: "Add tabbed sections to your posts."
 date: 2021-05-25
-author: "Alison Hill"
+author: "Vipin Kumar"
 draft: false
 # layout options: single, single-sidebar
 layout: single

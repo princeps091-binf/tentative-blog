@@ -1,6 +1,6 @@
 ---
-title: "Lorem Arrested Development"
-subtitle: "How to add panelsets in R Markdown posts."
+title: "The importance of resolution in HiC"
+subtitle: "Beauty lies in the beholder's bin-size"
 excerpt: "Add tabbed sections with code and results."
 date: 2021-05-24
 author: "Alison Hill"

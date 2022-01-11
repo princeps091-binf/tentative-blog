@@ -1,9 +1,9 @@
 ---
-title: "Lorem Simpson"
+title: "Climbing the GO-tree"
 subtitle: ""
-excerpt: "An .Rmarkdown post"
+excerpt: "Examining the unexpected behaviour of Gene Ontlogy topology"
 date: 2021-05-26
-author: "Alison Hill"
+author: "Vipin Kumar"
 draft: false
 images:
 series:
@@ -22,14 +22,14 @@ library(tidyverse)
 ```
 
 ```
-## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.0 ──
+## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
 ```
 
 ```
-## ✓ ggplot2 3.3.3     ✓ purrr   0.3.4
-## ✓ tibble  3.1.2     ✓ dplyr   1.0.5
-## ✓ tidyr   1.1.3     ✓ stringr 1.4.0
-## ✓ readr   1.4.0     ✓ forcats 0.5.1
+## ✓ ggplot2 3.3.5     ✓ purrr   0.3.4
+## ✓ tibble  3.1.6     ✓ dplyr   1.0.7
+## ✓ tidyr   1.1.4     ✓ stringr 1.4.0
+## ✓ readr   2.1.1     ✓ forcats 0.5.1
 ```
 
 ```
