@@ -7,17 +7,18 @@ date: 2021-01-02
 draft: false
 ---
 
-{{< here >}}
+<!--- {{< here >}} --->
 
 
 ## On the subjectivity of Systems
 
-### does this work?
+### The need for conventions derived from effects 
 
 ---
 
-## now for some very cool things
+## The 80-20 rule 
 
-## more
+---
+## Setting priorities
 
-## get ready!
+
