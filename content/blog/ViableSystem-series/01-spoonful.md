@@ -10,16 +10,16 @@ draft: false
 <!--- {{< here >}} --->
 
 
-## does this work?
-
-### or this?
+## Relations are as integral to the element as its properties
 
 ---
 
-Let's start.
+## Recursivity of viability
 
-## beginning
+---
 
-## middle
+## Algedonic mechanisms
 
-## end
+---
+
+## Controlling vs. Understanding
